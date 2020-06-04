@@ -1,12 +1,12 @@
 {
-    "name": "spatie/array-to-xml",
-    "description": "Convert an array to xml",
+    "name": "rene-roscher/array-to-xml",
+    "description": "Convert an array to xml | Update to 7.X Laravel",
     "keywords": [
         "convert",
         "array",
         "xml"
     ],
-    "homepage": "https://github.com/spatie/array-to-xml",
+    "homepage": "https://github.com/rene-roscher/array-to-xml",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php" : "^7.2",
+        "php" : "^7.4",
         "ext-dom": "*"
     },
     "require-dev": {
